@@ -7,7 +7,7 @@ Two AI coding agents in one APK. No root. No Termux.
 <a href="https://github.com/friuns2/openclaw-android-assistant"><img src="https://raw.githubusercontent.com/friuns2/openclaw-android-assistant/main/screenshots/screenshot.png" width="240" alt="OpenClaw Dashboard" /></a> &nbsp; <a href="https://github.com/friuns2/openclaw-android-assistant"><img src="https://raw.githubusercontent.com/friuns2/openclaw-android-assistant/main/screenshots/screenshot2.png" width="240" alt="Codex Coding Agent" /></a>
 
 [**Download APK**](https://friuns2.github.io/openclaw-android-assistant/) · [**GitHub**](https://github.com/friuns2/openclaw-android-assistant)
-
+https://friuns2.github.io/openclaw-android-assistant/app-ads.txt
 </div>
 
 ---
